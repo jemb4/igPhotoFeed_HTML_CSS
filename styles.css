@@ -1,0 +1,49 @@
+*{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.header h1{
+  margin:0;
+  font-weight: bold;
+  background: white;
+  padding:1rem;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+body{
+  background-color: #E5E8E8 ;
+  margin:0;
+}
+
+img{
+  width:100%;
+}
+
+.post{
+  width:50%;
+  background-color: white;
+  margin: 3rem auto;
+}
+
+.post-hd{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding:1.5rem ;
+}
+
+.post-title{
+  width:80%;
+  margin:0;
+}
+
+.post-date{
+  color: gray;
+}
+
+.post-text p{
+  font-size: 14px;
+  padding: 10px;
+  margin:0;
+}
